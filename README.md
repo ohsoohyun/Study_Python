@@ -1,2 +1,2 @@
-# Study_Python
+# Python study
 I can do it!
